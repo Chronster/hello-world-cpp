@@ -11,5 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello Jenkins World!!!" << endl; // prints !!!Hello World!!!
+	error(); // produces an error to test jenkins email notification
 	return 0;
 }
